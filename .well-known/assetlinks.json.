@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.drknss89.darts",
+        "sha256_cert_fingerprints": ["40:2C:37:9B:5A:10:5B:AA:16:8D:30:7F:23:5A:AA:69:34:6F:65:87:94:4D:6D:30:6F:54:48:D8:EC:FE:50:54"]
+      }
+    }]
